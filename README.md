@@ -11,7 +11,7 @@ Created a node application that will generate an html file with your team member
 - [GitHub Info](#GitHub) 
 
 ## Screenshots
-![Algorithm schema](images/sample.png)
+![Sample HTML](images/Sample.png)
 ## Installation
         npm install
 ## Usage
